@@ -1,1 +1,1 @@
-# Practical3
+# Practical3: Integer and Character methods
